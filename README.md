@@ -57,10 +57,7 @@ O esquemático completo do circuito estará disponível neste repositório em br
 <img width="1096" height="462" alt="image" src="https://github.com/user-attachments/assets/f3062d83-f97d-4186-9e92-e4498faa537a" />
 
 ### Configuração do Software
-1.  Clone este repositório:
-    ```bash
-    git clone [https://github.com/](https://github.com/)[eduardogiacomelli/iot-ac-controller.git
-    ```
+1.  Clone este repositório
 2.  Configure seu Template e Device no Blynk IoT para obter as chaves de autenticação.
 3.  Insira suas chaves do Blynk e suas credenciais de Wi-Fi no arquivo de código principal.
 4.  Carregue o firmware no seu NodeMCU.
