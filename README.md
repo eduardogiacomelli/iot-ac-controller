@@ -71,9 +71,3 @@ O esquemático completo do circuito estará disponível neste repositório em br
 -   [ ] **Fase 3:** Desenvolvimento do backend customizado com Python, FastAPI e Docker.
 -   [ ] **Fase 4:** Criação de um banco de dados (PostgreSQL/TimescaleDB) para armazenamento de séries temporais.
 -   [ ] **Fase 5:** Desenvolvimento de um aplicativo web/mobile customizado.
-
----
-
-## 📜 Licença
-
-Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
